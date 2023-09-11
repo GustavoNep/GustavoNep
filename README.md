@@ -23,6 +23,3 @@ My areas of expertise include: <br>
 ⚙️ Strong proficiency in Typescrit, React, CSS, SASS, HTML, Docker. <br>
 ⚙️ Proficient in Git workflow, noSQL & SQL database. <br>
 ⚙️ Currently learning NodeJs.
-
-Reach me in my email:
-[:mailbox:](gustaxv12@gmail.com)
