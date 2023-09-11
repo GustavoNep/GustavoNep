@@ -23,3 +23,4 @@ My areas of expertise include: <br>
 ⚙️ Strong proficiency in Typescrit, React, CSS, SASS, HTML, Docker. <br>
 ⚙️ Proficient in Git workflow, noSQL & SQL database. <br>
 ⚙️ Currently learning NodeJs.
+
