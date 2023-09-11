@@ -17,10 +17,8 @@
 
 Hello, I'm Gustavo, I'm a Software Engineer with full stack experience but currently studying Front End in depth.
 
-As a results-oriented professional that actively seeks out opportunities to improve my own skills and knowledge,<br> as well as support my team members in their own personal and professional growth.
-
 My areas of expertise include: <br>
-⚙️ Strong proficiency in Typescrit, React, CSS, SASS, HTML, Docker. <br>
-⚙️ Proficient in Git workflow, noSQL & SQL database. <br>
-⚙️ Currently learning NodeJs.
+:ballot_box_with_check: Strong proficiency in Typescrit, React, CSS, SASS, HTML, Docker. <br>
+:ballot_box_with_check: Proficient in Git workflow, noSQL & SQL database. <br>
+:ballot_box_with_check: Currently learning NodeJs.
 
