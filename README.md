@@ -20,5 +20,5 @@ Hello, I'm Gustavo, I'm a Software Engineer with full stack experience but curre
 My areas of expertise include: <br>
 :ballot_box_with_check: Strong proficiency in Typescrit, React, CSS, SASS, HTML. <br>
 :ballot_box_with_check: Proficient in Git workflow, java, noSQL & SQL database. <br>
-:ballot_box_with_check: Currently learning NodeJs.
+:ballot_box_with_check: Currently learning Java.
 
